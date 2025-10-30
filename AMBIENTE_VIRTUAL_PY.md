@@ -53,12 +53,12 @@ Para começar a usar o ambiente, você precisa ativá-lo. O comando varia de aco
 
 #### Windows (cmd.exe)
 ```powershell
-.venv\Scripts\activate.bat
+.venv\Scripts\activate
 ```
 
 #### Windows (PowerShell)
 ```powershell
-.venv\Scripts\Activate.ps1
+.venv\Scripts\Activate
 # Se houver erro de política de execução, pode ser necessário rodar:
 # Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 ```
